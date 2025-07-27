@@ -6,7 +6,7 @@
 
 ## 📞 Contact
 - **Phone:** +27 83 370 0789
-- **Email:** [mthtsh062@myuct.ac.za](mailto:mthtsh062@myuct.ac.za)
+- **Email:** [tshepangmathlore@gmail.com](mailto:tshepangmathlore@gmail.com)
 - **LinkedIn:** [Tshepang Mathlore](https://www.linkedin.com/in/tshepang-mathlore-9aa3941a6)
 
 ---
