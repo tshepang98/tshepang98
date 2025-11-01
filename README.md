@@ -21,6 +21,10 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-0A0A0A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -37,10 +41,10 @@
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ### Soft Skills
-- ![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-blue?style=for-the-badge)
-- ![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-blue?style=for-the-badge)
-- ![Effective Communication](https://img.shields.io/badge/-Effective%20Communication-blue?style=for-the-badge)
-- ![Problem-Solving](https://img.shields.io/badge/-Problem--Solving-blue?style=for-the-badge)
-- ![API Integration](https://img.shields.io/badge/-API%20Integration-blue?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-0078D7?style=for-the-badge&logo=slack&logoColor=white)
+![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FCA121?style=for-the-badge&logo=jira&logoColor=white)
+![Effective Communication](https://img.shields.io/badge/Effective_Communication-00C0F0?style=for-the-badge&logo=zoom&logoColor=white)
+![Problem-Solving](https://img.shields.io/badge/Problem_Solving-FF5733?style=for-the-badge&logo=idea&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
