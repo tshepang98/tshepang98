@@ -5,7 +5,7 @@
 ---
 
 ## 📞 Contact
-- **Phone:** +27 83 370 0789
+- **Phone:** +27 68 353 8051
 - **Email:** [tshepangmathlore@gmail.com](mailto:tshepangmathlore@gmail.com)
 - **LinkedIn:** [Tshepang Mathlore](https://www.linkedin.com/in/tshepang-mathlore-9aa3941a6)
 
